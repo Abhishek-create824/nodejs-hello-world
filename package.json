@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fhinkel/nodejs-hello-world.git"
+    "url": "git+https://github.com/Abhishek-create824/nodejs-hello-world.git"
   },
   "author": "fhinkel",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fhinkel/nodejs-hello-world/issues"
   },
-  "homepage": "https://github.com/fhinkel/nodejs-hello-world#readme"
+  "homepage": "https://github.com/Abhishek-create824/nodejs-hello-world#readme"
 }
