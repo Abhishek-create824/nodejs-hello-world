@@ -10,4 +10,4 @@ var server = http.createServer(function(request, response) {
 var port = 4000;
 server.listen(port);
 
-console.log("Server running at http://34.209.79.39:%d", port);
+console.log("Server running at http://52.25.5.72:%d", port);
